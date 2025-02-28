@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Sanderson Labousse</h1>
+        <p><b>Email:</b>breachshieldconsulting@gmail.com.</p>
+        <p><b>Tel:</b>347-978-8672</p>
+        <p>Bronx NY, 10463</p>
+    </header>
+    <hr />
+    <main>
+        <h2><u>Objective:</u></h2>
+        <p>Passionate and detail-oriented Web Developer & Cybersecurity Professional with a strong foundation in secure coding, penetration testing, and threat mitigation. Skilled in developing dynamic, user-friendly websites while ensuring robust security measures to protect digital assets. Seeking to leverage technical expertise to create secure and high-performing web solutions.</p>
+        <br />
+        <h3><b><u>Education & Certifications:</u></b></h3>
+        <p>Completed Penetration Testing Course (Cisco) and a Network Defense Course, equipping me with hands-on cybersecurity skills. Additionally, I have completed a full stack Web Development Course and earned a JavaScript Certification, strengthening my ability to build secure and dynamic web applications.</p>
+        <h3><u>Work Experience</u></h3>
+        <h4>Freelance Web Developer & Cybersecurity Enthusiast</h4>
+        <p><b>Self-Employed | [2022 - Present]</b></p>
+        <ul>
+            <li>Developed and deployed secure, responsive websites using HTML, CSS, JavaScript, and modern frameworks.</li>
+            <li>Conducted vulnerability assessments and penetration testing on personal projects and virtual labs using tools like Nmap, Metasploit, and Kali Linux.</li>
+            <li>Strengthened network security through hands-on labs, implementing firewalls, intrusion detection, and encryption techniques.</li>
+            <li>Built and tested secure web applications, applying best practices in secure coding and ethical hacking methodologies.</li>
+            <li>Continuously expanding expertise through real-world simulations, personal projects, and cybersecurity challenges.</li>
+        </ul>
+
+        <h3><u>Technical Skills:</u></h3>
+        <ul>
+            <li>Web Development: HTML, CSS, JavaScript, React, responsive design
+            </li>
+            <li>Cybersecurity: Penetration testing, network defense, vulnerability assessment, ethical hacking</li>
+            <li>Tools & Technologies: Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite, OWASP ZAP</li>
+            <li>Security Practices: Secure coding, encryption, firewalls, authentication protocols</li>
+            <li>Networking: TCP/IP, VPNs, IDS/IPS, network security configurations</li>
+            <li>Version Control & Deployment: Git/GitHub, CI/CD, cloud security fundamentals</li>
+        </ul>
+
+        <h3><u>Soft Skills:</u></h3>
+        <ul>
+            <li>Problem-solving and analytical thinking</li>
+            <li>Attention to detail and security-first mindset</li>
+            <li>Strong communication and teamwork</li>
+            <li>Continuous learning and adaptability</li>
+            
+        </ul>
+
+        <h3><u>Certifications:</u></h3>
+        <ul>
+            <li>Endpoint Security</li>
+            <li>Networking Devices and Initial Configuration</li>
+            <li>Network Defense</li>
+            <li>Cyber Threat Management</li>
+            <li>Ethical Hacking</li>
+            
+        </ul>
+       <h3> <a href="https://www.credly.com/users/sanderson-labousse">View My Certifications here</a></h3>
+
+    </main>
+    <footer>
+        <p>&copy; 2025 Breachshield Consulting</p>
+    </footer>
+    <script src="script.js"></script> <!-- Link to JavaScript file -->
+</body>
+</html>
